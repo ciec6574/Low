@@ -1,13 +1,40 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+    "League of Wings/GameData/GameData",
+    "League of Wings/Team/Team",
+    "League of Wings/Time/Time"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#6e6d6b",
+    "selectedColor": "#e64340",
+    "borderStyle": "white",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "League of Wings/Time/Time",
+        "text": "赛程",
+        "iconPath": "image/time_on.png",
+        "selectedIconPath": "image/time_on.png"
+      },
+      {
+        "pagePath": "League of Wings/Team/Team",
+        "text": "战队",
+        "iconPath": "image/team_off.png",
+        "selectedIconPath": "image/team_on.png"
+      },
+      {
+        "pagePath": "League of Wings/GameData/GameData",
+        "text": "数据",
+        "iconPath": "image/GameData_off.png",
+        "selectedIconPath": "image/GameData_on.png"
+      }
+    ]
   },
   "sitemapLocation": "sitemap.json"
 }
