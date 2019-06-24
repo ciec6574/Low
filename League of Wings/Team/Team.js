@@ -6,7 +6,7 @@ Page({
    */
   data: {
     lists: [
-      "FPX", "RNG", "LNG", "TES", "EDG", "SUNING", "LGD", "IG", "BLG", "V5", "OMG", "JDG", "VG", "DMO", "WE", "RW"
+      "FPX", "RNG", "LNG", "TES", "EDG", "SN", "LGD", "IG", "BLG", "V5", "OMG", "JDG", "VG", "DMO", "WE", "RW"
     ],
     indexId: 0,
   },

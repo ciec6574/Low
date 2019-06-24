@@ -6,6 +6,7 @@
       <block wx:key="lists" wx:for="{{lists}}">
         <view bindtap='jumpIndex' data-menuindex='{{index}}'>
           <view class='text-style'>
+            <image class="logoimg" src="/image/teamimg/{{item}}.png"></image>
             <text class="{{indexId==index?'active1':''}}">{{item}}</text>
             <text class="{{indexId==index?'active':''}}"></text>
           </view>
