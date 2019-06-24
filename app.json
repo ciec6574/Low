@@ -30,7 +30,7 @@
       },
       {
         "pagePath": "League of Wings/GameData/GameData",
-        "text": "数据",
+        "text": "召唤师数据",
         "iconPath": "image/GameData_off.png",
         "selectedIconPath": "image/GameData_on.png"
       }
