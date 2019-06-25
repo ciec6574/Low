@@ -1,2 +1,81 @@
 <!--League of Wings/Time/Time.wxml-->
-<text>赛程</text>
+  <view class="game-list js_game_list ">
+    <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-01</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/DMO.png"></image>
+          <text class="icon-circle s-icon1"></text>DMO</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/EDG.png"></image>
+          <text class="icon-circle s-icon2"></text>EDG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-01</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/JDG.png"></image>
+          <text class="icon-circle s-icon1"></text>JDG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/FPX.png"></image>
+          <text class="icon-circle s-icon2"></text>FPX</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-02</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/LGD.png"></image>
+          <text class="icon-circle s-icon1"></text>LGD</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/V5.png"></image>
+          <text class="icon-circle s-icon2"></text>V5</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+  </view>

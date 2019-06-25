@@ -30,7 +30,7 @@
       },
       {
         "pagePath": "League of Wings/GameData/GameData",
-        "text": "召唤师数据",
+        "text": "战队排行",
         "iconPath": "image/GameData_off.png",
         "selectedIconPath": "image/GameData_on.png"
       }
