@@ -5,16 +5,16 @@
     "League of Wings/Time/Time"
   ],
   "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#000",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
-    "color": "#6e6d6b",
-    "selectedColor": "#e64340",
-    "borderStyle": "white",
-    "backgroundColor": "#fff",
+    "color": "#4169e1",
+    "selectedColor": "#000000",
+    "borderStyle": "black",
+    "backgroundColor": "#ff4500",
     "list": [
       {
         "pagePath": "League of Wings/Time/Time",

@@ -1,2 +1,37 @@
 <!--League of Wings/GameData/GameData.wxml-->
-<text>数据</text>
+<view class="" style='float:left;'>
+  <view class="titlebar">
+    <block class="season">
+      <view class="season-view">{{season}}</view>
+    </block>
+    <block  class="tab" wx:for="{{tab}}">
+      <view  class="tab-view">{{item.name}}</view>
+    </block>
+  </view>
+  <view class='groupTitleName'>{{itemname}}</view>
+  <view class='grouptitletitle'  >
+    <view class='grouptitle-view' wx:for="{{grouptitle}}"> 
+      <view style='width:{{item.width}}'>{{item.name}}</view>
+
+    </view>
+  </view>
+  <view class='groupNO' >
+    <view wx:for="{{NOlist}}" class="groupNOItem">
+      <view  class="NoView">{{item.NO}}</view>
+    </view>
+  </view>
+  <view class='group' wx:for="{{grouplist}}">  
+    <view class="groupName" >
+      <image src="{{item.url}}" mode="aspectFill" class="groupicon"></image>
+      <view style='margin-left:-3rpx;' class="grouptitle-view">{{item.name}}</view>      
+    </view>
+    <view class='grouptitle'>
+      <view style='width:75rpx;' class="grouptitle-view">{{item.WT}}</view>
+      <view style='width:75rpx;' class="grouptitle-view">{{item.LT}}</view>
+      <view style='width:50rpx;' class="grouptitle-view">{{item.score}}</view>
+    </view>
+  </view>
+  
+  
+</view>
+

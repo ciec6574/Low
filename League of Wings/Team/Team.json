@@ -1,3 +1,7 @@
 {
-  "usingComponents": {}
+    "navigationBarBackgroundColor": "#4682B4",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "League of Wings",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "dark"
 }
