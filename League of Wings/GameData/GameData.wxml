@@ -1,18 +1,12 @@
 <!--League of Wings/GameData/GameData.wxml-->
-<view class="" style='float:left;'>
-  <view class="titlebar">
-    <block class="season">
-      <view class="season-view">{{season}}</view>
-    </block>
-    <block  class="tab" wx:for="{{tab}}">
-      <view  class="tab-view">{{item.name}}</view>
-    </block>
-  </view>
+<view class="swiper-tab">  
+    <view class="swiper-tab-list {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">积分榜</view>  
+    <view class="swiper-tab-list {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">击杀榜</view>  
+    <view class="swiper-tab-list {{currentTab==2 ? 'on' : ''}}" data-current="2" bindtap="swichNav">助攻榜</view>  
   <view class='groupTitleName'>{{itemname}}</view>
   <view class='grouptitletitle'  >
     <view class='grouptitle-view' wx:for="{{grouptitle}}"> 
       <view style='width:{{item.width}}'>{{item.name}}</view>
-
     </view>
   </view>
   <view class='groupNO' >
@@ -31,7 +25,7 @@
       <view style='width:50rpx;' class="grouptitle-view">{{item.score}}</view>
     </view>
   </view>
+  </view>
   
-  
-</view>
+
 

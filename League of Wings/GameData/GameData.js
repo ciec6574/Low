@@ -4,18 +4,7 @@ const app = getApp()
 Page({
   data: {
     season: 'LPL2019',
-    itemname: '球队',
-    tab: [
-      {
-        name: '球队'
-      },
-      {
-        name: '球员'
-      },
-      {
-        name: '赛程'
-      },
-    ],
+    itemname: '战队',
     grouptitle: [
       {
         name: '胜',
@@ -162,7 +151,20 @@ Page({
         LT: '0',
         score: '0',
       },
+      
     ],
     
   }
-})
+,swichNav: function (e) {
+
+    var that = this;
+
+    if (this.data.currentTab === e.target.dataset.current) {
+      return false;
+    } else {
+      that.setData({
+        currentTab: e.target.dataset.current
+      })  
+  }
+}  
+})  
