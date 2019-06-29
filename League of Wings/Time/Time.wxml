@@ -1,4 +1,5 @@
 <!--League of Wings/Time/Time.wxml-->
+
   <view class="game-list js_game_list ">
     <view data-supplierid="100020" data-key="" class="game-list-item  ">
       <view class="game-time"> 06-01</view>
@@ -468,4 +469,889 @@
       </view>
     </view>
 
+
+    <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-11</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/DMO.png"></image>
+          <text class="icon-circle s-icon1"></text>DMO</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/LNG.png"></image>
+          <text class="icon-circle s-icon2"></text>LNG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+    <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-11</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/FPX.png"></image>
+          <text class="icon-circle s-icon1"></text>FPX</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/RW.png"></image>
+          <text class="icon-circle s-icon2"></text>RW</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+    <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-12</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/SN.png"></image>
+          <text class="icon-circle s-icon1"></text>SN</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/WE.png"></image>
+          <text class="icon-circle s-icon2"></text>WE</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-12</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/BLG.png"></image>
+          <text class="icon-circle s-icon1"></text>BLG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/EDG.png"></image>
+          <text class="icon-circle s-icon2"></text>EDG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-14</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/DMO.png"></image>
+          <text class="icon-circle s-icon1"></text>DMO</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/TES.png"></image>
+          <text class="icon-circle s-icon2"></text>TES</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-14</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/OMG.png"></image>
+          <text class="icon-circle s-icon1"></text>OMG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/LGD.png"></image>
+          <text class="icon-circle s-icon2"></text>LGD</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-15</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/VG.png"></image>
+          <text class="icon-circle s-icon1"></text>VG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/RNG.png"></image>
+          <text class="icon-circle s-icon2"></text>RNG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-15</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/IG.png"></image>
+          <text class="icon-circle s-icon1"></text>IG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/EDG.png"></image>
+          <text class="icon-circle s-icon2"></text>EDG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-16</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/FPX.png"></image>
+          <text class="icon-circle s-icon1"></text>FPX</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/WE.png"></image>
+          <text class="icon-circle s-icon2"></text>WE</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-16</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/SN.png"></image>
+          <text class="icon-circle s-icon1"></text>SN</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/JDG.png"></image>
+          <text class="icon-circle s-icon2"></text>JDG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-17</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/VG.png"></image>
+          <text class="icon-circle s-icon1"></text>VG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/V5.png"></image>
+          <text class="icon-circle s-icon2"></text>V5</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-17</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/TES.png"></image>
+          <text class="icon-circle s-icon1"></text>TES</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/RW.png"></image>
+          <text class="icon-circle s-icon2"></text>RW</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-18</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/DMO.png"></image>
+          <text class="icon-circle s-icon1"></text>DMO</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/SN.png"></image>
+          <text class="icon-circle s-icon2"></text>SN</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-18</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/FPX.png"></image>
+          <text class="icon-circle s-icon1"></text>FPX</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/LGD.png"></image>
+          <text class="icon-circle s-icon2"></text>LGD</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-19</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/OMG.png"></image>
+          <text class="icon-circle s-icon1"></text>RW</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/RW.png"></image>
+          <text class="icon-circle s-icon2"></text>RW</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-19</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/LNG.png"></image>
+          <text class="icon-circle s-icon1"></text>LNG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/WE.png"></image>
+          <text class="icon-circle s-icon2"></text>WE</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-21</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/BLG.png"></image>
+          <text class="icon-circle s-icon1"></text>BLG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/LNG.png"></image>
+          <text class="icon-circle s-icon2"></text>LNG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-21</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/EDG.png"></image>
+          <text class="icon-circle s-icon1"></text>EDG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/WE.png"></image>
+          <text class="icon-circle s-icon2"></text>WE</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-22</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/JDG.png"></image>
+          <text class="icon-circle s-icon1"></text>JDG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/VG.png"></image>
+          <text class="icon-circle s-icon2"></text>VG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-22</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/IG.png"></image>
+          <text class="icon-circle s-icon1"></text>IG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/TES.png"></image>
+          <text class="icon-circle s-icon2"></text>TES</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-23</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/V5.png"></image>
+          <text class="icon-circle s-icon1"></text>V5</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/OMG.png"></image>
+          <text class="icon-circle s-icon2"></text>OMG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-23</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/FPX.png"></image>
+          <text class="icon-circle s-icon1"></text>FPX</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/RNG.png"></image>
+          <text class="icon-circle s-icon2"></text>RNG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-24</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/BLG.png"></image>
+          <text class="icon-circle s-icon1"></text>BLG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/TES.png"></image>
+          <text class="icon-circle s-icon2"></text>TES</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-24</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/IG.png"></image>
+          <text class="icon-circle s-icon1"></text>IG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/SN.png"></image>
+          <text class="icon-circle s-icon2"></text>SN</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-25</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/LGD.png"></image>
+          <text class="icon-circle s-icon1"></text>LGD</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/LNG.png"></image>
+          <text class="icon-circle s-icon2"></text>LNG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-25</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/RW.png"></image>
+          <text class="icon-circle s-icon1"></text>RW</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/EDG.png"></image>
+          <text class="icon-circle s-icon2"></text>EDG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-26</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/VG.png"></image>
+          <text class="icon-circle s-icon1"></text>VG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/DMO.png"></image>
+          <text class="icon-circle s-icon2"></text>DMO</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-26</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/V5.png"></image>
+          <text class="icon-circle s-icon1"></text>V5</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/FPX.png"></image>
+          <text class="icon-circle s-icon2"></text>FPX</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-28</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/SN.png"></image>
+          <text class="icon-circle s-icon1"></text>SN</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/BLG.png"></image>
+          <text class="icon-circle s-icon2"></text>BLG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-28</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/RW.png"></image>
+          <text class="icon-circle s-icon1"></text>RW</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/LNG.png"></image>
+          <text class="icon-circle s-icon2"></text>LNG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-29</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/TES.png"></image>
+          <text class="icon-circle s-icon1"></text>TES</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/WE.png"></image>
+          <text class="icon-circle s-icon2"></text>WE</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-29</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/IG.png"></image>
+          <text class="icon-circle s-icon1"></text>IG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/JDG.png"></image>
+          <text class="icon-circle s-icon2"></text>JDG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+     <view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-30</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/LGD.png"></image>
+          <text class="icon-circle s-icon1"></text>LGD</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/EDG.png"></image>
+          <text class="icon-circle s-icon2"></text>EDG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 17:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+<view data-supplierid="100020" data-key="" class="game-list-item  ">
+      <view class="game-time"> 06-30</view>
+      <view class="toreviewing"> 赛事回看 </view>
+      <view class="detail">
+        <view class="detail1">
+          <view class="start">
+          <image class="logoimg" src="/image/teamimg/OMG.png"></image>
+          <text class="icon-circle s-icon1"></text>OMG</view>
+          <view class="end">
+          <image class="logoimg" src="/image/teamimg/RNG.png"></image>
+          <text class="icon-circle s-icon2"></text>RNG</view>
+        </view>
+        <view class="tags">
+          <view>
+            <text class="ifend">已结束</text>
+          </view>
+          <view>
+            <text class="items">BO3 19:00</text>
+          </view>
+          <view>
+            <text class="b-tags js_tags"></text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
   </view>

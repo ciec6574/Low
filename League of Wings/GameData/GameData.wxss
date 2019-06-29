@@ -111,8 +111,8 @@
 }
 
 .groupicon{
-  height: 55rpx;
-  width: 60rpx;
+  height: 50rpx;
+  width: 50rpx;
   float: left;
 }
 
