@@ -86,12 +86,14 @@
 .game-list .game-list-item .start {
  color: #333333;
  font-size: 40rpx;
+ text-align: left;
  
 }
 
 .game-list .game-list-item .end {
  color: #333333;
  font-size: 40rpx;
+ text-align: left;
  
 }
 
@@ -102,43 +104,43 @@
  font-weight: 600;
 }
 
-.game-list .game-list-item.disabled .ticket {
- display: none;
-}
 
-.game-list .game-list-item .ticket {
-  color: #fd8f01;
-  font-size: 24rpx;
-  border: 2rpx solid #fd8f01;
-  padding: 2rpx 8rpx;
-  border-radius: 10rpx;
-  font-family: Arial;
-}
 
 .game-list .game-list-item.disabled .ticket {
   color: #c5c5c5;
 }
 
 .game-list .game-list-item .s-icon1 {
-  margin: 0 10rpx;
-  border-color: #00B358;
+  margin: 0 15rpx;
+  
 }
 
 .game-list .game-list-item .s-icon2 {
-  margin: 0 10rpx;
+  margin: 0 15rpx;
   border-color: #f06463;
 }
 
 .game-list .game-list-item .tags {
-    width: 100rpx;
-    text-align: right;
-    position: absolute;
-    right: 0;
-    margin-right: 150rpx;
-    margin-top: 5rpx;
-    top: 0;
+  width: 100rpx;
+  text-align: right;
+  position: absolute;
+  right: 0;
+  margin-right: 150rpx;
+  margin-top: 5rpx;
+  top: 0;
 }
 .logoimg{
   width: 18px;
   height: 18px;
+}
+.pointloss {
+  margin-left: 10rpx;
+  margin-right: 50rpx;
+  margin-top: 5rpx;
+}
+.pointwin {
+  margin-left: 10rpx;
+  margin-right: 50rpx;
+  margin-top: 5rpx;
+  color: #fa0000;
 }
