@@ -3,7 +3,8 @@
   <view class="game-list js_game_list ">
     <view data-supplierid="100020" data-key="" class="game-list-item  ">
       <view class="game-time"> 06-01</view>
-      <view class="toreviewing">赛事回看</view>
+      <view class='toreviewing'>赛事回看</view>
+      
       <view class="detail">
         <view class="detail1">
           <view class="start">
@@ -33,7 +34,7 @@
 
     <view data-supplierid="100020" data-key="" class="game-list-item  ">
       <view class="game-time"> 06-01</view>
-      <view class="toreviewing"> 赛事回看 </view>
+      <view class="toreviewing"><web-view> 赛事回看  </web-view> </view>
       <view class="detail">
         <view class="detail1">
           <view class="start">

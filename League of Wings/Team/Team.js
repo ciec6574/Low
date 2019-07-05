@@ -17,6 +17,7 @@ Page({
     that.setData({
       indexId: index
     });
+    console.log(index)
   },
 
   /**
