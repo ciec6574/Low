@@ -19,6 +19,7 @@
   <view>
   <text class="textlogo">{{lists[indexId]}}</text>
   </view>
+  <image class="teams" src="/image/teams/{{lists[indexId]}}.PNG"></image>
   </view>
 </view>
 

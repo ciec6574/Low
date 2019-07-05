@@ -57,5 +57,10 @@ position: relative;
 margin-left: -30px;
 font-size: 30px;
 }
-
+.teams{
+width: 300px;
+height: 150px;
+position: relative;
+margin-left: -150px;
+}
 

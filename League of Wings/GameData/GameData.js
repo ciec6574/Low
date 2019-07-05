@@ -153,9 +153,138 @@ Page({
       },
       
     ],
+    killlist:[
+      {
+        NO: '1',
+        name: 'LNG',
+        url: '/image/teamimg/LNG.png',
+        kill: '266'
+      },
+      {
+        NO: '2',
+        name: 'FPX',
+        url: '/image/teamimg/FPX.png',
+        kill: '260'
+      },
+      {
+        NO: '3',
+        name: 'IG',
+        url: '/image/teamimg/IG.png',
+        kill: '254'
+      },
+      {
+        NO: '4',
+        name: 'V5',
+        url: '/image/teamimg/V5.png',
+        kill: '238'
+      },
+      {
+        NO: '5',
+        name: 'EDG',
+        url: '/image/teamimg/EDG.png',
+        kill: '230'
+      },
+      {
+        NO: '6',
+        name: 'SN',
+        url: '/image/teamimg/SN.png',
+        kill: '226'
+      },
+      {
+        NO: '7',
+        name: 'RNG',
+        url: '/image/teamimg/RNG.png',
+        kill: '209'
+      },
+      {
+        NO: '8',
+        name: 'LGD',
+        url: '/image/teamimg/LGD.png',
+        kill: '201'
+      },
+      {
+        NO: '9',
+        name: 'TES',
+        url: '/image/teamimg/TES.png',
+        kill: '198'
+      },
+      {
+        NO: '10',
+        name: 'WE',
+        url: '/image/teamimg/WE.png',
+        kill: '197'
+      },
+      {
+        NO: '11',
+        name: 'LNG',
+        url: '/image/teamimg/LNG.png',
+        kill: '266'
+      },
+      {
+        NO: '12',
+        name: 'LNG',
+        url: '/image/teamimg/LNG.png',
+        kill: '266'
+      },
+      {
+        NO: '13',
+        name: 'LNG',
+        url: '/image/teamimg/LNG.png',
+        kill: '266'
+      },
+      {
+        NO: '14',
+        name: 'LNG',
+        url: '/image/teamimg/LNG.png',
+        kill: '266'
+      },
+      {
+        NO: '15',
+        name: 'LNG',
+        url: '/image/teamimg/LNG.png',
+        kill: '266'
+      },
+      {
+        NO: '16',
+        name: 'LNG',
+        url: '/image/teamimg/LNG.png',
+        kill: '266'
+      },
+
+    ],
+    winWidth: 0,
+    winHeight: 0,
+    // tab切换  
+    currentTab: 0,  
     
-  }
-,swichNav: function (e) {
+  },
+  onLoad: function () {
+    var that = this;
+
+    /** 
+     * 获取系统信息 
+     */
+    wx.getSystemInfo({
+
+      success: function (res) {
+        that.setData({
+          winWidth: res.windowWidth,
+          winHeight: res.windowHeight
+        });
+      }
+
+    });
+  },
+  /** 
+     * 滑动切换tab 
+     */
+  bindChange: function (e) {
+
+    var that = this;
+    that.setData({ currentTab: e.detail.current });
+
+  },  
+  swichNav: function (e) {
 
     var that = this;
 
@@ -166,5 +295,6 @@ Page({
         currentTab: e.target.dataset.current
       })  
   }
-}  
+}
+  
 })  
