@@ -14,4 +14,11 @@
       </block>
     </view>
   </scroll-view>
+  <view class="right_view">
+  <image class="teamslogo" src="/image/teamimg/{{lists[indexId]}}.png"></image>
+  <view>
+  <text class="textlogo">{{lists[indexId]}}</text>
+  </view>
+  </view>
 </view>
+

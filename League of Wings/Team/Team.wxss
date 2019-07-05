@@ -16,12 +16,17 @@
 }
 .text-style {
   width: 200rpx;
-  height: 140rpx;
+  height: 100rpx;
   line-height: 140rpx;
   text-align: left;
-  font-size: 40rpx;
+  font-size: 45rpx;
   font-family: PingFangSC-Semibold;
   color: rgba(51, 51, 51, 1);
+}
+.right_view{
+  position: absolute;
+  top: 40px;
+  left: 475rpx;
 }
 .active1 {
   color: #85d1fd;
@@ -36,8 +41,21 @@
   bottom: 30rpx;
 }
 .logoimg{
-  width: 15px;
-  height: 15px;
+  width: 20px;
+  height: 20px;
+}
+.teamslogo{
+width: 150px;
+height: 150px;
+position: relative;
+margin-left: -77px;
+
+}
+.textlogo{
+text-align:center;
+position: relative;
+margin-left: -30px;
+font-size: 30px;
 }
 
 
