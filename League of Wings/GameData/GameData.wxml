@@ -1,4 +1,7 @@
-<!--League of Wings/GameData/GameData.wxml-->  
+<!--League of Wings/GameData/GameData.wxml-->
+<view>
+<text>更新时间：2019-06-30 21：00：00</text>
+</view>  
   <view class='groupTitleName'>{{itemname}}</view>
   <view class='grouptitletitle'  >
   <view class='grouptitle-view' wx:for="{{grouptitle}}"> 
