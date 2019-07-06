@@ -20,7 +20,7 @@
         "pagePath": "League of Wings/Time/Time",
         "text": "赛程",
         "iconPath": "image/time_on.png",
-        "selectedIconPath": "image/time_on.png"
+        "selectedIconPath": "image/time_off.png"
       },
       {
         "pagePath": "League of Wings/Team/Team",
